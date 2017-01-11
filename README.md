@@ -1,4 +1,4 @@
-# Git Hands-On Workshop
+﻿# Git Hands-On Workshop for Kevin's favorite number
 
 ## 0. PowerShell Prep
 
